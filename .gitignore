@@ -1,0 +1,7 @@
+# *.stl
+*.stl_temp
+
+*.blend
+*.blend1
+
+__pycache__/
